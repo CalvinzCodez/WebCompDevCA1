@@ -1,0 +1,41 @@
+ /* Navbar styles */
+
+ .headerNav {
+     display: block;
+     color: #ffc857;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+ }
+
+ .headerNav:hover {
+     background-color: #ffc857;
+     color: #323031;
+
+ }
+
+ .headerContainer {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: #323031;
+ }
+
+ li a {
+     display: block;
+     color: #ffc857;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+     font-size: 20px;
+ }
+
+ li a:hover {
+    background-color: #ffc857;
+    color: #323031;
+ }
+
+.logo:hover{
+    cursor: pointer;
+ }

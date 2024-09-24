@@ -1,0 +1,65 @@
+/* App.css */
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  /* Center the list items horizontally */
+}
+
+li {
+  margin: 0 15px;
+  /* color: white; */
+  border-color: black;
+  
+  /* Add margin between list items */
+
+}
+
+h2 {
+  text-align: center;
+  color: #ffc857;
+  border: solid;
+  background-color: #323031;
+  /* margin-right: 300px;
+  margin-left: 300px; */
+  border-color: black;
+  border-radius: 20px;
+  overflow-y: auto;
+  width: 50%;
+  margin: auto;
+
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+form {
+  text-align: center;
+  border: solid;
+  /* background-color: #084c61; */
+  background-color: white;
+  overflow-y: auto;
+  width: 50%;
+  margin: auto;
+}
+
+label {
+  font-size: 20px;
+  color: #323031;
+  
+}
+
+body {
+  /* background-image: url('./assets/images/websiteBackground.jpg'); */
+  /* background-color: #177e89; */
+  background-color: #5e5e5e;
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center center;
+  overflow-y: auto;
+
+}
+

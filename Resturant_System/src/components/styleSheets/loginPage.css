@@ -1,0 +1,22 @@
+  input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #323031;
+    color: #ffc857;
+  }
+
+  input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #323031;
+    color: #ffc857;
+
+  }
+
+  ::placeholder{
+    color: #ffc857;
+  }

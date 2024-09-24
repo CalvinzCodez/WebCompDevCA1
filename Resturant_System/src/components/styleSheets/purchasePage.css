@@ -1,0 +1,110 @@
+.paymentOpt {
+    text-align: center;
+    border: solid;
+    background-color: white;
+    /* margin: 0 600px; */
+    width: 300px;
+    border-radius: 6px;
+    resize: both;
+    overflow: auto;
+    /* width: 50%; */
+    margin: auto;
+}
+
+.paymentLabel {
+    color: black;
+}
+
+
+.deleteButton {
+    color: white;
+    background-color: #db3a34;
+    display: block;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.deleteButton:hover {
+    color: white;
+    background-color: #ef233c;
+    border-color: 323031;
+}
+
+.selectedItems {
+    border: solid;
+    border-radius: 6px;
+    background-color: white;
+    font-weight: bold;
+    max-height: 200px;
+    overflow-y: auto;
+
+}
+
+.selectedItemList {
+    color: black;
+}
+
+.hotdrinkblock {
+    border: solid;
+    border-color: #323031;
+    background-color: #ffc857;
+    padding: 5px 0;
+    margin-bottom: 3px;
+    border-radius: 6px;
+    font-weight: bold;
+    text-align: center;
+    color: #323031;
+
+}
+
+.hotdrinkblock:hover {
+    border: solid;
+    border-color: #ffbe0b;
+    background-color: #323031;
+    color: #ffbe0b;
+}
+
+.colddrinkblock {
+    border: solid;
+    border-color: #323031;
+    background-color: #ffc857;
+    padding: 10px 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 3px;
+    border-radius: 6px;
+    font-weight: bold;
+    text-align: center;
+    color: #323031;
+}
+
+.colddrinkblock:hover {
+    border: solid;
+    border-color: #ffbe0b;
+    background-color: #323031;
+    color: #ffbe0b;
+
+}
+
+.fooditemblock {
+    border: solid;
+    border-color: #323031;
+    background-color: #ffc857;
+    padding: 5px 0;
+    margin-bottom: 3px;
+    border-radius: 6px;
+    font-weight: bold;
+    text-align: center;
+    color: #323031;
+}
+
+.fooditemblock:hover {
+    border: solid;
+    background-color: #ffc857;
+    background-color: #323031;
+    color: #ffbe0b;
+}
+
+.purchaseMenu{
+    padding-top: 10px;
+}

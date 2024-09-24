@@ -1,0 +1,82 @@
+.deletedItems{
+    color: #323031;
+    border: solid;
+    border-color: #323031;
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+  }
+
+  .centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 40px; */
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding-left: 160px;
+    padding-right: 160px;
+    /* gap: 10px; */
+    padding-top: 30px;
+    
+  }
+  .add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 40px; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding-left: 160px;
+    padding-right: 160px;
+    
+  }
+  
+  .delete{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 40px; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    padding-left: 160px;
+    padding-right: 160px;
+  }
+
+  button {
+    background-color: #323031;
+    padding: 15px 32px;
+    border-radius: 6px;
+    color: #ffc857;
+    font-size: 15px;
+      
+  }
+  
+  button:hover {
+    background-color: #ffc857;
+    color: #323031;
+  }
+
+  .adminMenu{
+    padding-top: 30px;
+  }
+
+  .Add{
+    padding-top: 15px;
+    padding-bottom: 5px;
+  }
+  .Del{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 40px; */
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* gap: 10px; */
+    padding-top: 30px;
+  }
