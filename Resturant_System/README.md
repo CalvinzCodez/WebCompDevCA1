@@ -38,11 +38,11 @@ Username - staff
 Password - password
 
 ## Images
-![Main_Menu](src\Screenshots\MainMenu.png)
-![Login_Page](src\Screenshots\Login.png)
-![Purchase_Page](src\Screenshots\Purchase.png)
-![Admin_Add_Page](src\Screenshots\Add.png)
-![Admin_Delete_Page](src\Screenshots\Delete.png)
+![MainMenu](https://github.com/user-attachments/assets/a01de773-9f3b-4284-aaae-0dd72e8b97c3)
+![Login](https://github.com/user-attachments/assets/a70d8e04-c7ee-44e9-92ca-1925b58387c6)
+![Purchase](https://github.com/user-attachments/assets/d8644347-dd61-4ad9-b727-949f533f36e4)
+![Add](https://github.com/user-attachments/assets/fe1ea199-2e35-47fb-bb5b-b8ff10266d2b)
+![Delete](https://github.com/user-attachments/assets/6de863e4-314c-4dee-8d0a-03428e3e7094)
 
 ## Author
 Calvin Harvey
