@@ -28,5 +28,21 @@ npm install
 npm start
 ```
 
+## Login Information
+Admin details:
+Username - Admin
+Password - adminpassword
+
+Staff details:
+Username - staff
+Password - password
+
+## Images
+![Main_Menu](src\Screenshots\MainMenu.png)
+![Login_Page](src\Screenshots\Login.png)
+![Purchase_Page](src\Screenshots\Purchase.png)
+![Admin_Add_Page](src\Screenshots\Add.png)
+![Admin_Delete_Page](src\Screenshots\Delete.png)
+
 ## Author
 Calvin Harvey
