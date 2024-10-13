@@ -33,12 +33,12 @@ npm start
 
 ## Login Information
 Admin details:
-Username - Admin
-Password - adminpassword
+- Username - Admin
+- Password - adminpassword
 
 Staff details:
-Username - staff
-Password - password
+- Username - staff
+- Password - password
 
 ## Images
 ![MainMenu](https://github.com/user-attachments/assets/a01de773-9f3b-4284-aaae-0dd72e8b97c3)
