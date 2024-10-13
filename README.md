@@ -9,15 +9,15 @@ For the creation of this system, you are asked to use React to create the necess
 The images shown represent a possible way to present the restaurant menu. As the developer you are free to change UI presentation.  
 
 ## Marking Scheme
-Validate users  5% 
-Admin  add - delete  25% 
-React UI component GUI   
-Restaurant Menu  10% 
-Item selection  15% 
-Order total  15% 
-Component design  20% 
-Correct Ordering printout  10% 
-Presentation  10% 
+- Validate users  5% 
+- Admin  add - delete  25% 
+- React UI component GUI   
+- Restaurant Menu  10% 
+- Item selection  15% 
+- Order total  15% 
+- Component design  20% 
+- Correct Ordering printout  10% 
+- Presentation  10% 
 
 ## Quickstart
 ```bash
