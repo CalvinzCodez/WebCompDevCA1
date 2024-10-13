@@ -21,6 +21,9 @@ Presentation  10%
 
 ## Quickstart
 ```bash
+git clone https://github.com/CalvinzCodez/WebCompDevCA1.git
+cd Resturant_System
+
 # install the dependencies
 npm install
 
